@@ -21,3 +21,4 @@ if (random < 40) {
  });
 
 }
+node index.js
